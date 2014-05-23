@@ -1,0 +1,2 @@
+NAO: {description: '', git: 'https://github.com/ogata-lab/NAO.git', hash: 703561ddc15b273be5b98c66255f0eb500e13f01}
+NAOTest: {description: '', git: 'https://github.com/ogata-lab/NAOTest.git', hash: 6bee30c377b6a195e008c14f3ead7266e0917f32}
